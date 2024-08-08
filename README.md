@@ -2,7 +2,7 @@
 
 # Description
 3,919 People Multi-pose Faces Data, 24 images and 9 videos per person. The collection environment includes indoor and outdoor scenes. This data can be used for face detection, face recognition and other tasks.
-For more details, please visit: https://www.nexdata.ai/datasets/1199?source=Github
+For more details, please visit: https://www.nexdata.ai/datasets/computervision/1199?source=Github
 
 # Specifications
 ## Data size
